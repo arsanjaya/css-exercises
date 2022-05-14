@@ -1,0 +1,14 @@
+.klik, .noklik {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    text-align: center;
+}
+
+.klik {
+    background-color: black;
+    color: white;
+}
+
+.noklik {
+    background-color: yellow;
+}
